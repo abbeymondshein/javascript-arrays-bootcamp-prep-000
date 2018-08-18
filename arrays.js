@@ -41,4 +41,7 @@ function removeElementFromBeginningOfArray(array){
   return slicedArray
 }
 
-function 
+function destructivelyRemoveElementFromEndOfArray(array) {
+  //returns array with the last element 
+  
+}
