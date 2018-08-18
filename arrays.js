@@ -9,5 +9,7 @@ function addElementToBeginningOfArray(array,element) {
 
 function destructivelyAddElementToBeginningOfArray(array,element) {
   //alters the original array that's passed in
-  return array.unshift(element);
+  array.unshift(element);
+  return array
+
 }
