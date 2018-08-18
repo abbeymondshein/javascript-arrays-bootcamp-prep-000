@@ -48,5 +48,6 @@ function destructivelyRemoveElementFromEndOfArray(array) {
 }
 
 function removeElementFromEndOfArray(array){
+  //removes the last element from the array
   
 }
